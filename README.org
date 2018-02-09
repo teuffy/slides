@@ -1,3 +1,4 @@
+#+REVEAL_ROOT: /Users/co/Development/hask_start/bassbull/bower_components/reveal.js
 * Setup
  from gh-pages branch
 * Page 1
