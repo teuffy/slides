@@ -1,4 +1,4 @@
-#+REVEAL_ROOT: /Users/co/Development/hask_start/bassbull/bower_components/reveal.js
+#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
 * Setup
  from gh-pages branch
 * Page 1
