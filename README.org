@@ -1,3 +1,4 @@
+#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
 * Setup
 - done from master branch
 * Page 1
