@@ -1,4 +1,4 @@
-#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
+#+REVEAL_ROOT: ./bower_components/reveal.js
 * Setup
  from gh-pages branch
 * Page 1
